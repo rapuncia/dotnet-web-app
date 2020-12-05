@@ -15,15 +15,18 @@ body {
 input,
 select,
 textarea {
+    color: #ff00dc;
     max-width: 280px;
 }
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .jumbotron {
+        color: #924189;
         margin-top: 20px;
     }
     .body-content {
+  
         padding: 0;
     }
 }
