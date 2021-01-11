@@ -6,8 +6,16 @@
     <title>@ViewBag.Title</title>
 </head>
 <body>
-    <div>
-        @RenderBody()
-    </div>
+    <p>Popular Courses</p>
+    @{ var courses = new List<string>()
+        {
+            "Computer Science",
+            "Data Science",
+            "Cybersecurity"
+        };
+        <ul>
+            @foreach(string course in courses)
+        </ul>
+    }
 </body>
 </html>
