@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsXqkwPmK5nKgqQbgRY8oAHSvXJmHkmudtw4/6GAvnNXAgeG3ptEFX+T9ceNk/OXaFWm66KMjCA7P/LRP1ijcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anna_Lukashevych\\source\\repos\\dotnet-web-app\\RazorWebPagesApplication\\RazorWebPagesApplication.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anna_Lukashevych\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
